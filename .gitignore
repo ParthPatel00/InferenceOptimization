@@ -41,3 +41,14 @@ frontend/.env.local
 
 # OS
 .DS_Store
+
+# Assignment and tooling files
+assignment.txt
+CLAUDE.md
+AGENTS.md
+frontend/CLAUDE.md
+frontend/AGENTS.md
+frontend/README.md
+data/labels.cache
+frontend/app/favicon.ico
+frontend/.gitignore
